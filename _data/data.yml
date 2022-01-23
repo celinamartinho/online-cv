@@ -18,6 +18,9 @@ sidebar:
     github: celinamartinho
 
     languages:
+      - idiom: Portuguese
+        level: Native
+        
       - idiom: English
         level: B2
         
@@ -32,7 +35,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -41,6 +44,12 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
+    - degree: IT Recruitment
+      university: Damia's Tech Recruitment Academy
+      time: 01/2022 - Present
+      details: |
+      
+          
     - degree: Bachelor in Logistics and Distribution Management
       university: Instituto Politécnico de Setúbal
       time: 2015 - 2019
@@ -51,13 +60,13 @@ experiences:
       time: 26/04/2021 - Present
       company: Garcias, S.A., Alcochete, Portugal
       details: |
-        Usage of the Primavera software for:
+        - Usage of the Primavera software;
         - Inventory and prices management;
         - Issuing invoices;
         - Issuing credit and debit notes;
         - Sending the purchasing registry of the clients to the suppliers;
         - Filing and organization of invoices;
-        Support on the purchasing department.
+        - Support on the purchasing department.
         
       
     - role: Store Coordinator
@@ -79,7 +88,7 @@ experiences:
       details: |
         - Identify the needs of the clients and answer them;
         - Client orders management and invoice issuing;
-        - Administrative support;
+        - Administrative support.
           
           
 projects:
