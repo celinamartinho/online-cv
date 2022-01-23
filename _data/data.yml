@@ -37,12 +37,10 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I'm a recent graduate who completed the bachelor in Logistics and Distribution Management. 
+      I'm always looking forward to being able to learn even more from future opportunities and different challenges.
+      I consider myself a creative person with great adaptability, valuing teamwork. I am dynamic, flexible, autonomous, responsible, assiduous and punctual.
+     
 education:
     - degree: IT Recruitment
       university: Damia's Tech Recruitment Academy
@@ -92,11 +90,18 @@ experiences:
           
           
 projects:
-    title: about me
-    intro: >
-      I plan my activities on a weekly basis. I have good communication skills. Always wiling to help the team while being respectful. 
-      I'm a fast learner and I consider myself a positive person when facing difficulties, hardworking and always wiling to learn. I also have a good abilitie to adapt to several situations.
-      I'm dynamic, flexible, autonomous, responsible, assiduous and punctual.
+    title: ORGANISATIONAL SKILLS
+    intro: Weekly Planning
+      I plan my activities on a weekly basis. 
+      
+     title: COMMUNICATION AND INTERPERSONAL SKILLS
+     intro: Teamwork
+       Good communication skills, always wiling to help the team while being respectful.
+       
+      title: WORK RELATED SKILLS
+      intro: Fast learner
+        I consider myself a positive person when facing difficulties, hardworking and always wiling to learn. I also have a good ability to adapt to several situations.
+     
     assignments:
       - title: Velocity
         link: "#hook"
