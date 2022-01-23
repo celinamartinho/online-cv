@@ -54,7 +54,7 @@ education:
           - Bullet point
           
 experiences:
-    - role: Purchasing Technician 
+    - role: Purchasing Technician - Professional Intership
       time: 26/04/2021 - Present
       company: Garcias, S.A., Alcochete, Portugal
       details: |
@@ -65,30 +65,31 @@ experiences:
         - Sending the purchasing registry of the clients to the suppliers;
         - Filing and organization of invoices;
         Support on the purchasing department.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        
+      
+    - role: Store Coordinator
+      time: 11/2020 - 04/2021
+      company: ERA Imobiliária, Quinta do Conde, Portugal
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Mapping the prospect routes of the commercial managers into the inhouse software;
+        Training new commercial managers;
+        Store maintenance and organization;
+        E-mail, sales platform, social media management and phone support;
+        Costumer service;
+        Weekly newsletter release.
+        
+       
+          
+    - role: Curricular Internship
+      time: 27/05/2019 - 09/09/2019
+      company: Farmavenix, Montijo, Portugal
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Identify the needs of the clients and answer them;
+        Client orders management and invoice issuing;
+        Administrative support;
+        Usage of the SAP software.
+          
+          
 projects:
     title: Projects
     intro: >
