@@ -1,6 +1,6 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
-# <img src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-4.jpg" width="300"/>
+# 
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -154,4 +154,4 @@ skills:
     
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <img src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-4.jpg" width="300"/>Xiaoying Riley</a>
