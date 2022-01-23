@@ -14,23 +14,18 @@ sidebar:
     # Sidebar links
     email: celinamartinho96@gmail.com
     phone: 912295356
-    website: blog.webjeda.com #do not add http://
     linkedin: https://www.linkedin.com/in/celina-martinho-4488b1196/
     github: celinamartinho
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
         level: B2
         
     interests:
-      - item: Shopping
+      - item: Travelling
         link:
 
-      - item: Travelling
+      - item: Shopping
         link:
 
       - item: Cooking
