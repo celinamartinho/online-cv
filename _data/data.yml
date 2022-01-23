@@ -90,17 +90,19 @@ experiences:
           
           
 projects:
-     title: SOFT SKILLS
+    title: Projects
+    intro: >
+      SOFT SKILLS
     assignments:
-      - title: ORGANISATIONAL SKILLS
+      - title: Organizational Skills
         link: 
         tagline: Weekly Planning - I plan my activities on a weekly basis.
 
-      - title: COMMUNICATION AND INTERPERSONAL SKILLS
+      - title: Communication and Interpersonal Skills
         link: 
         tagline: Teamwork - Good communication skills, always wiling to help the team while being respectful.
 
-      - title: WORK RELATED SKILLS
+      - title: Work Related Skills
         link: 
         tagline: Fast learner - I consider myself a positive person when facing difficulties, hardworking and always wiling to learn. I also have a good ability to adapt to several situations.
 
