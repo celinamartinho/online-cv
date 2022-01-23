@@ -103,17 +103,17 @@ projects:
         I consider myself a positive person when facing difficulties, hardworking and always wiling to learn. I also have a good ability to adapt to several situations.
      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: ORGANISATIONAL SKILLS
+        link: 
+        tagline: Weekly Planning - I plan my activities on a weekly basis.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: COMMUNICATION AND INTERPERSONAL SKILLS
+        link: 
+        tagline: Teamwork - Good communication skills, always wiling to help the team while being respectful.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: WORK RELATED SKILLS
+        link: 
+        tagline: Fast learner - I consider myself a positive person when facing difficulties, hardworking and always wiling to learn. I also have a good ability to adapt to several situations.
 
       - title: Atom
         link: "#"
@@ -123,27 +123,7 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
