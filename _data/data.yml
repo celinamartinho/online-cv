@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -45,13 +45,6 @@ education:
       university: Instituto Politécnico de Setúbal
       time: 2015 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
           
 experiences:
     - role: Purchasing Technician - Professional Intership
@@ -71,12 +64,12 @@ experiences:
       time: 11/2020 - 04/2021
       company: ERA Imobiliária, Quinta do Conde, Portugal
       details: |
-        Mapping the prospect routes of the commercial managers into the inhouse software;
-        Training new commercial managers;
-        Store maintenance and organization;
-        E-mail, sales platform, social media management and phone support;
-        Costumer service;
-        Weekly newsletter release.
+        - Mapping the prospect routes of the commercial managers into the inhouse software;
+        - Training new commercial managers;
+        - Store maintenance and organization;
+        - E-mail, sales platform, social media management and phone support;
+        - Costumer service;
+        - Weekly newsletter release.
         
        
           
@@ -84,18 +77,17 @@ experiences:
       time: 27/05/2019 - 09/09/2019
       company: Farmavenix, Montijo, Portugal
       details: |
-        Identify the needs of the clients and answer them;
-        Client orders management and invoice issuing;
-        Administrative support;
-        Usage of the SAP software.
+        - Identify the needs of the clients and answer them;
+        - Client orders management and invoice issuing;
+        - Administrative support;
           
           
-projects:
-    title: Projects
+about me:
+    title: about me
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I plan my activities on a weekly basis. I have good communication skills. Always wiling to help the team while being respectful. 
+      I'm a fast learner and I consider myself a positive person when facing difficulties, hardworking and always wiling to learn. I also have a good abilitie to adapt to several situations.
+      I'm dynamic, flexible, autonomous, responsible, assiduous and punctual.
     assignments:
       - title: Velocity
         link: "#hook"
@@ -158,8 +150,8 @@ skills:
       - name: SAP
         level: 20%
 
-      - name: Sketch & Photoshop
-        level: 60%
+     
+    
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
