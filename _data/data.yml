@@ -90,17 +90,6 @@ experiences:
           
           
 projects:
-    title: ORGANISATIONAL SKILLS
-    intro: Weekly Planning
-      I plan my activities on a weekly basis. 
-      
-    title: COMMUNICATION AND INTERPERSONAL SKILLS
-    intro: Teamwork
-       Good communication skills, always wiling to help the team while being respectful.
-       
-    title: WORK RELATED SKILLS
-    intro: Fast learner
-        I consider myself a positive person when facing difficulties, hardworking and always wiling to learn. I also have a good ability to adapt to several situations.
      
     assignments:
       - title: ORGANISATIONAL SKILLS
@@ -114,14 +103,6 @@ projects:
       - title: WORK RELATED SKILLS
         link: 
         tagline: Fast learner - I consider myself a positive person when facing difficulties, hardworking and always wiling to learn. I also have a good ability to adapt to several situations.
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 
